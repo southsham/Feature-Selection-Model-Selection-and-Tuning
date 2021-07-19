@@ -8,5 +8,5 @@ Some fees are charged on every user irrespective of usage, while others are char
 
 Objective: To predict if a customer will leave the credit card services or not and the reason behind it
 
-Skills and Tools: Cross validation, up and down smapling, regularization, Pipelines and hyperparameter tuning
+Skills and Tools: Cross validation, up and down sampling, regularization, Pipelines and hyperparameter tuning
 
